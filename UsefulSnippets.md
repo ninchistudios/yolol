@@ -18,3 +18,15 @@ Cute little script to use a centering lever for throttle. Holds position if forw
 // where cruise is leverCenteringSpeed 
 ```
 
+## Material Scanner
+
+Basic Mat Scanner. Needs improvement. 
+
+```
+n="\n" itr=0 :scan="" IF :sense<1 THEN :scan="OFF" GOTO1 END
+v=:Vol s=" "
+IF itr<:rslt THEN :idx=itr :scan+=:mat+s+v+n itr+=1 GOTO3 END GOTO1 
+// Scanner fields: Sense Idx Rslt Mat Vol Scan Reset
+// Display fields: Scan
+// Button fields: Sense
+```
