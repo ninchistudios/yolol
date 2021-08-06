@@ -6,7 +6,7 @@ The intent is that it's a "print and go" design, which will not require any modd
 
 ## Preserved
 
-* The Momento is fast and moddable. The Chaga preserves the 150m/s empty speed, and approx 120m/s full speed with safezone ores, in an open and moddable framework.
+* The Momento is fast and moddable. The Chaga preserves the 150m/s empty speed, and approx 120m/s full speed with safezone ores, in an open, mostly unarmoured and moddable framework. Speed over tank.
 * XY form factor with a central open bay. Unlike the more common "flat" XZ form factor, the Chaga preserves the Momento's "vertical" XY with an open central section.
 * Entry level construction. The Chaga preserves T1 components as far as possible. Easily upgraded to fancier components as money allows.
 
@@ -29,4 +29,5 @@ The intent is that it's a "print and go" design, which will not require any modd
 * Material Analyser
 * Relocated hardpoints to improve cockpit access
 * Group-compatible with Tailgunner and Mining Operator seats
+* Additional Generators, Fuel Rods and spares, Batteries
 * TODO
