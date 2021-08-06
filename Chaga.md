@@ -13,7 +13,7 @@ The intent is that it's a "print and go" design, which will not require any modd
 ## Fixes
 
 * Plumbing. The Momento suffers from single point of failure plumbing, with exposed wires everywhere. The Chaga is primarily ducted, with quad-redundant main duct buses and at least double redundant plumbing to essential components with no hidden plumbing. 
-* Accessibility. The Momento appears to be auto-bolted, which makes accessing certain components very difficult. The Chaga is entirely manually bolted, and every key component can be easily accessed and maintained.
+* Accessibility. The Momento appears to be auto-bolted, which makes accessing certain components very difficult. The Chaga is entirely manually bolted, and every key component can be easily accessed and maintained. Plumbing and bolting will be neat, tidy and accessible.
 * Resilience. Key flight components of the Momento are exposed and under-attached, making them easily damaged rendering the ship adrift. The Chaga houses key components in armoured enclosures and bolts the heck out of them, without compromising maintainability.
 * The Momento feels like a ship that was designed but never flown. The Chaga is being flown as my main ship during development, so any quality of life problems become apparent and can be fixed.
 * Programming. As a CA design, the YOLOL chips provided with the Momento are out of date. The Chaga includes:
