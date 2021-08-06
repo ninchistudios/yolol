@@ -30,4 +30,5 @@ The intent is that it's a "print and go" design, which will not require any modd
 * Relocated hardpoints to improve cockpit access
 * Group-compatible with Tailgunner and Mining Operator seats
 * Additional Generators, Fuel Rods and spares, Batteries
+* Storage bay. Armoured container for bolting spares, ammo, etc.
 * TODO
